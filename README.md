@@ -39,6 +39,6 @@ Task dependencies, critical path (27 weeks), and parallel execution schedules we
 ## 👥 The Development Team
 This architecture was designed and documented by:
 - **Joud Kayyali** (Team Lead) - [Portfolio/Website](https://joudkayyali.vercel.app/)
-- **Zaid Alassaf** (System Analyst)
-- **Hamzah Altoom** (System Analyst)
-- **Ibraheem Abdullah** (Technical Architect) - [Portfolio/Linkedln](https://www.linkedin.com/in/ibraheem-abdullah)
+- **Ibraheem Abdullah** - [Portfolio/Linkedln](https://www.linkedin.com/in/ibraheem-abdullah)
+- **Zaid Alassaf**
+- **Hamzah Altoom**
