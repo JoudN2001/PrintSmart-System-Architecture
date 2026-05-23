@@ -19,20 +19,36 @@ We adopted a **Hybrid SDLC Methodology**. Project management and budgeting were 
 ### 1. Business Logic (Context & Logical DFD)
 The system boundary and internal business processes were modeled to ensure zero managerial bottleneck for front-desk employees.
 *(Showing the Context Diagram)*
-![Context Diagram](diagrams/context.drawio.png)
+
+<p align="center">
+  <img src="diagrams/context.drawio.png" alt="Context Diagram" width="700">
+  <br>
+</p>
 
 ### 2. Physical Implementation (Physical DFD)
 Bridging the gap between business logic and software engineering, the physical DFD maps out HTTP POST payloads, JSON objects, and SQL Update queries.
-![Physical DFD](diagrams/physicalDFD.png)
+<p align="center">
+  <img src="diagrams/physicalDFD.png" alt="Physical DFD" width="700">
+  <br>
+</p>
 
 ### 3. Behavioral Modeling (UML Use Case)
 Illustrates the Object-Oriented design principles and Role-Based Access Control (RBAC), ensuring sensitive financial metrics remain hidden from non-administrative staff.
-![Use Case Diagram](diagrams/usecase.png)
+<p align="center">
+  <img src="diagrams/usecase.png" alt="Use Case Diagram" width="700">
+  <br>
+</p>
 
 ### 4. Project Management (PERT & Gantt)
 Task dependencies, critical path (27 weeks), and parallel execution schedules were calculated using Three-Point Estimation.
-![Network Diagram](diagrams/Network.png)
-![Gantt Chart](diagrams/gantt%20chart.png)
+<p align="center">
+  <img src="diagrams/gantt%20chart.png" alt="Gantt Chart" width="700">
+  <br>
+</p>
+<p align="center">
+  <img src="diagrams/Network.png" alt="Network Diagram" width="700">
+  <br>
+</p>
 
 ---
 
